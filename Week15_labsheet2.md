@@ -18,4 +18,7 @@
 
 3. ตรวจสอบให้แน่ใจว่าไฟล์ `Program.cs` มีเนื้อหาดังต่อไปนี้
 
-![alt text](![alt text](./Pictures/image-17.png))
+![alt text](./Pictures/image-17.png)
+
+
+
