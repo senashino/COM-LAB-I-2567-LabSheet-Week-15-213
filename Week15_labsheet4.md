@@ -19,10 +19,25 @@
 
 3. เลือกที่ตั้ง project
 
-![alt text](image.png)
-4. 
+![alt text](./Pictures/image-37.png)
+
+4. สร้าง test project จนเสร็จ เปิดไฟล์ CalcLibTest.csproj ควรพบข้อความ  `<TargetFramework>net8.0</TargetFramework>`
+  
+5. เพิ่ม reference project ให้กับ CalcLibTest โดยเลือก CalculatorLibrary
+
+![alt text](./Pictures/image-38.png)
+
+6. แก้ code ใน UnitTest1.cs เป็นดังต่อไปนี้
+
+![alt text](./Pictures/image-39.png)
 
 
+7. เลือกหน้าต่าง Test
+
+![alt text](./Pictures/image-40.png)
 
 
+8. Run Test with coverage
+
+![alt text](./Pictures/image-41.png)
 

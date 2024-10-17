@@ -1,5 +1,5 @@
 # การทดลอง
-## การรัน unit test บน console application โดยใช้ Visual Studio Code
+## การรัน unit test บน console application โดยใช้ Visual Studio Code (ตอนที่ 1)
 
 - ใบงานนี้จะทำการ รัน unit test บน  .NET console application โดยใช้ Visual Studio Code
 - เพื่อให้โปรแกรมสามารถ reuse ได้ เราจะทดลองสร้างเป็น class library ซึงสามารถเรียกใช้ได้จากทั้งโปรแกรมแบบ console application, mobile application หรือ web application
