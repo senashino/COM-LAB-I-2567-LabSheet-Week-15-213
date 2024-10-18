@@ -40,6 +40,13 @@
 
 **บันทึกผลการทดลอง**
 ผลที่ได้จากการทำงานในแต่ละบรรทัด  ถูกต้องตามที่เขียนเขียนโปรแกรมไว้หรือไม่
+   ![image](https://github.com/user-attachments/assets/bc3deb3b-597d-4c50-8ea1-6d3ff14d5fa9)
+   ![image](https://github.com/user-attachments/assets/822fc6bc-5596-49dd-8fe5-b09afb398570)
+   ![image](https://github.com/user-attachments/assets/e6f6513b-454e-4ec5-9b68-f81dc26b5203)
+   ![image](https://github.com/user-attachments/assets/9be77d86-b8cb-4844-a372-03ce305b40ff)
+
+
+
 
 **หมายเหตุ**
 ในการ debug เราสามารถใช้ command pallette ในการสั่งการได้ 
@@ -53,7 +60,7 @@
 ![alt text](./Pictures/image-23.png)
 
 **บันทึกผลการทดลอง**
-- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug 
+- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug
+   คำตอบ ให้ผลเหมือนกัน
 - การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
-
-
+   คำตอบ มีผล
